@@ -1,2 +1,2 @@
 # Competitive-Programming
-I'll upload Codes that are required often in Competitive programming.
+I'll upload Codes that are often required in Competitive programming.
